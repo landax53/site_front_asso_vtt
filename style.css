@@ -34,7 +34,7 @@ body,html {
 cursor: pointer;
 }
 
-#main {
+main {
     margin-top: 50px;
     overflow: hidden;
     position: relative;
